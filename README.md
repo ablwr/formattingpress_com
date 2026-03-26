@@ -1,6 +1,3 @@
-# [Archives by the sea](http://archivesbythesea.com)
+# formatting... press
 
-## Credits
-
-- Design and code by Ashley Blewer
-- Illustration was modified from this beautiful [Codepen](https://codepen.io/xdesro/details/MzKZrE)
+tmp/wip home
